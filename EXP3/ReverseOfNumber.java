@@ -1,3 +1,21 @@
+//Aim:
+To write a Java program to reverse a given integer using a while loop.
+
+//Algorithm:
+Start the program.
+Import the Scanner class to read input from the user.
+Declare integer variables n and reverse, and initialize reverse = 0.
+Read an integer n from the user.
+Repeat while n is not equal to 0:
+Extract the last digit using n % 10.
+Add the digit to the reversed number using reverse = reverse * 10 + n % 10.
+Remove the last digit using n = n / 10.
+Display the reversed number.
+Close the scanner.
+Stop the program.
+
+
+//program:
 import java.util.Scanner;
 class ReverseOfNumber {
     public static void main(String args[]) {
@@ -13,3 +31,6 @@ class ReverseOfNumber {
         in.close();
     }
 }
+
+//Result:
+Thus, the Java program to reverse a given integer using a while loop was executed successfully.
