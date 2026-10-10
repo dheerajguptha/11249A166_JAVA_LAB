@@ -1,3 +1,23 @@
+//Aim:
+To write a Java program to calculate the area and perimeter of a square, circle, and triangle using classes, constructors, and methods.
+
+//Algorithm:
+Start the program.
+Create a Square class with a constructor to initialize the side.
+Define methods to calculate the area and perimeter of the square.
+Create a Circle class with a constructor to initialize the radius.
+Define methods to calculate the area and perimeter of the circle.
+Create a Triangle class with a constructor to initialize the three sides.
+Define methods to calculate the perimeter and area of the triangle using Heron's formula.
+In the main() method, read the side of the square and calculate its area and perimeter.
+Read the radius of the circle and calculate its area and perimeter.
+Read the three sides of the triangle and calculate its area and perimeter.
+Display the results for all three shapes.
+Close the scanner.
+Stop the program.
+    
+    
+//program:    
 import java.util.Scanner;
 class Circle {
     int radius;
@@ -63,3 +83,6 @@ public class PerimeterAndArea {
         sc.close();
     }
 }
+
+//Result:
+Thus, the Java program to calculate the area and perimeter of a square, circle, and triangle using classes, constructors, and methods was executed successfully.
