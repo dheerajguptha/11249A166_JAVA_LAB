@@ -1,13 +1,7 @@
+//AIM:
+To write a Java program to find the sum, largest number, and smallest number in a given array.
 
-/*
-
-AIM : To write a Java program to find the sum, largest number, and smallest number in
-a given array.
-*/
-
-
-/*
-Algorithm:
+//Algorithm:
 
 Start the program.
 Initialize an array with the given elements.
@@ -18,7 +12,7 @@ If the current element is smaller than min, update min.
 Add the current element to sum.
 Display the sum, largest number, and smallest number.
 Stop the program.
-*/
+
 
 //program:
 public class LargestSmallest {
@@ -42,7 +36,5 @@ public class LargestSmallest {
     }
 }
 
-/*
-Result : Thus, the Java program to find the sum, largest number, and smallest number 
-in a given array was executed successfully.
-*/
+//Result :
+Thus, the Java program to find the sum, largest number, and smallest number in a given array was executed successfully.
