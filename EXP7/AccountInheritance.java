@@ -1,3 +1,17 @@
+//Aim:
+To write a Java program to demonstrate inheritance using a bank account and savings bank account.
+
+//Algorithm:
+Start the program.
+Create an Account class with methods to credit, debit, and display balance.
+Create an SBAccount class that extends Account and displays the interest rate.
+Create an object of SBAccount.
+Perform credit and debit operations.
+Display the final balance and interest rate.
+Stop the program.
+
+
+//program:
 class Account {
     int accountNumber, balance;
 
@@ -44,3 +58,6 @@ class AccountInheritance {
         obj1.displayInterestRate();
     }
 }
+
+//Result:
+The program successfully demonstrates inheritance and displays the updated account balance and interest rate.
