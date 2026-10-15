@@ -1,3 +1,24 @@
+/*
+Experiment: Drawing Lines and Rectangles Using Java Graphics
+
+Aim:
+To write a Java program to draw lines, rectangles, filled rectangles,
+and rounded rectangles using Java Swing and AWT graphics methods.
+
+Algorithm:
+1. Import the required AWT and Swing packages.
+2. Create a class named LineAndRectangleUsingApplet that extends JPanel.
+3. Override the paintComponent() method.
+4. Use drawLine() to draw lines.
+5. Use drawRect() to draw a rectangle.
+6. Use fillRect() to draw a filled rectangle.
+7. Use drawRoundRect() to draw a rounded rectangle.
+8. Use fillRoundRect() to draw a filled rounded rectangle.
+9. Create a JFrame and add the panel to it.
+10. Set the frame size and make it visible.
+*/
+
+
 import java.awt.*;
 import javax.swing.*;
 
@@ -29,7 +50,8 @@ public class LineAndRectangleUsingApplet extends JPanel {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("Lines and Rectangles");
-        LineAndRectangleUsingApplet panel = new LineAndRectangleUsingApplet();
+        LineAndRectangleUsingApplet panel =
+                new LineAndRectangleUsingApplet();
 
         frame.add(panel);
         frame.setSize(280, 230);
@@ -38,3 +60,19 @@ public class LineAndRectangleUsingApplet extends JPanel {
         frame.setVisible(true);
     }
 }
+
+/*
+Sample Output:
+A window titled "Lines and Rectangles" appears displaying:
+- A diagonal line.
+- An unfilled rectangle.
+- A filled rectangle.
+- An unfilled rounded rectangle.
+- A filled rounded rectangle.
+- Two intersecting lines forming an X shape.
+
+Result:
+Thus, the Java program to draw lines, rectangles, and rounded
+rectangles using Swing and AWT graphics methods was written
+and executed successfully.
+*/
