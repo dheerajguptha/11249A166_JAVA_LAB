@@ -1,3 +1,22 @@
+/*
+Experiment: Human Face Using Java Graphics
+
+Aim:
+To write a Java program to draw a human face using Java Swing
+and AWT graphics methods.
+
+Algorithm:
+1. Import the required AWT and Swing packages.
+2. Create a class named HumanFaceUsingApplet that extends JPanel.
+3. Override the paintComponent() method.
+4. Use drawOval() to draw the face, eyes, and ears.
+5. Use fillOval() to draw the pupils.
+6. Use drawOval() to draw the nose.
+7. Use drawArc() to draw the mouth.
+8. Create a JFrame and add the panel to it.
+9. Set the frame size and make it visible.
+*/
+
 import java.awt.*;
 import javax.swing.*;
 
@@ -40,3 +59,14 @@ public class HumanFaceUsingApplet extends JPanel {
         frame.setVisible(true);
     }
 }
+
+
+/*
+Sample Output:
+A window titled "Human Face" appears with a face containing
+a head, two eyes, pupils, a nose, a mouth, and two ears.
+
+Result:
+Thus, the Java program to draw a human face using Swing
+and AWT graphics methods was written and executed successfully.
+*/
