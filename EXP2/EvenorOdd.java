@@ -34,5 +34,13 @@ class EvenorOdd{
     }
 }
 
+//Output
+Output 1: Even Number
+Enter a number: 8
+This number is even
+Output 2: Odd Number
+Enter a number: 7
+This number is odd
+
 //Result:
 Thus, the Java program to check whether a given number is even or odd using a switch statement was executed successfully.
