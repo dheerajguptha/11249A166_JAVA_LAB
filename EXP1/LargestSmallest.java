@@ -36,5 +36,10 @@ public class LargestSmallest {
     }
 }
 
+//Output
+The sum is : 357
+Largest Number in a given array is : 90
+Smallest Number in a given array is : 9
+    
 //Result :
 Thus, the Java program to find the sum, largest number, and smallest number in a given array was executed successfully.
