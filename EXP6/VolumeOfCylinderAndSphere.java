@@ -42,5 +42,10 @@ public class VolumeOfCylinderAndSphere{
     }
 }
 
+//Output
+Enter radius and height: 5 10
+Volume of Cylinder: 785.40
+Volume of Sphere: 523.60
+    
 //Result:
 The Java program was executed successfully. It calculates and displays the volumes of a cylinder and a sphere using interfaces.
