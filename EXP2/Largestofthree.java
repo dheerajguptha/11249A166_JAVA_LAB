@@ -41,5 +41,34 @@ class LargestOfthree {
     }
 }
 
+//Output
+Output 1: First Number Is Largest
+Enter three integers:
+30
+20
+10
+First number is largest.
+
+Output 2: Second Number Is Largest
+Enter three integers:
+10
+40
+25
+Second number is largest.
+
+Output 3: Third Number Is Largest
+Enter three integers:
+15
+25
+50
+Third number is largest.
+
+Output 4: Numbers Are Not Distinct
+Enter three integers:
+20
+20
+10
+The numbers are not distinct.
+
 //Result:
 Thus, the Java program to find the largest of three integers using the if-else-if statement was executed successfully.
