@@ -44,5 +44,18 @@ public class LeapYear {
     }
 }
 
+//Output
+Output 1: Leap Year
+Enter any year: 2024
+Year 2024 is a Leap Year
+
+Output 2: Not a Leap Year
+Enter any year: 2023
+Year 2023 is not a Leap Year
+
+Output 3: Century Leap Year
+Enter any year: 2000
+Year 2000 is a Leap Year
+
 //Result:
 Thus, the Java program to check whether a given year is a leap year or not was executed successfully.
