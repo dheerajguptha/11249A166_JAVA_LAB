@@ -51,6 +51,11 @@ class CollegeInheritance {
     }
 }
 
+//Output
+CollegeName: NIT
+PrincipalName: B.K.Sinha
+DepartmentName: Electronics
+HODName: B.C.Rai
 
 //Result:
 The program successfully demonstrates single inheritance and displays the college and department details.
