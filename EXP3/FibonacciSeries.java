@@ -48,5 +48,18 @@ public class FibonacciSeries {
     }
 }
 
+//Output
+Output 1
+Enter the value of n: 7
+Fibonacci Series: 0 1 1 2 3 5 8
+
+Sample Output 2
+Enter the value of n: 1
+0
+
+Sample Output 3
+Enter the value of n: 0
+Please enter a positive number.
+    
 //Result:
 Thus, the Java program to generate the Fibonacci series up to n terms was executed successfully.
