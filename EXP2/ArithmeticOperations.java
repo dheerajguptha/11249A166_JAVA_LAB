@@ -79,5 +79,90 @@ public class ArithmeticOperations {
     }
 }
 
+//Output
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+1
+Result: 30
+
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+2
+Result: 10
+
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+3
+Result: 200
+
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+4
+Result: 2.0
+
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+5
+Result: 0
+
+Enter the two numbers to perform operations
+Enter the first number: 20
+Enter the second number: 10
+
+Choose the operation you want to perform
+Choose 1 for ADDITION
+Choose 2 for SUBTRACTION
+Choose 3 for MULTIPLICATION
+Choose 4 for DIVISION
+Choose 5 for MODULUS
+Choose 6 for EXIT
+6
+Exiting...
+
 //Result:
 Thus, the Java program to perform arithmetic operations using a menu-driven approach and a switch statement was executed successfully.
