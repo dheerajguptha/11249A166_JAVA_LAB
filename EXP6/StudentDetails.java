@@ -57,5 +57,12 @@ public class StudentDetails{
     }
 }
 
+    //Output
+Name of Student: Ragini
+Roll No. of Student: 12
+Marks of Subject 1: 93
+Marks of Subject 2: 84
+Percentage: 88.5%
+    
 //Result:
 The Java program was executed successfully. It displays the student's name, roll number, marks in two subjects, and the calculated percentage.
