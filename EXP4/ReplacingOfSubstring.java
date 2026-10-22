@@ -28,5 +28,12 @@ public class ReplacingOfSubstring{
     }
 }
 
+//Output
+Enter a string:
+Java is a programming language
+Enter the variable to be replaced and the variable that replaces it:
+Java Python
+After replacement: Python is a programming language
+
 //Result:
 Thus, the Java program to replace a specified substring in a given string using the replace() method was executed successfully.
