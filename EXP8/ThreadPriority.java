@@ -64,5 +64,29 @@ public class ThreadPriority {
     }
 }
 
+//Output
+start thread A
+start thread B
+Thread A started
+from thread A i=1
+start thread C
+Thread B started
+from thread B j=1
+from thread B j=2
+from thread B j=3
+from thread B j=4
+exit from B
+thread C started
+thread c =1
+thread c =2
+thread c =3
+thread c =4
+exit from c
+end of main thread
+from thread A i=2
+from thread A i=3
+from thread A i=4
+exit from A
+    
 //Result:
 The program successfully demonstrates thread creation and setting priorities using setPriority() in Java.
