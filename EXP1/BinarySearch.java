@@ -55,5 +55,32 @@ class BinarySearch {
     }
 }
 
+//Output
+Sample Output 1: Element Found
+Enter number of elements:
+5
+Enter elements of array:
+10
+20
+30
+40
+50
+Enter element to search:
+30
+Element found
+
+Sample Output 2: Element Not Found
+Enter number of elements:
+5
+Enter elements of array:
+10
+20
+30
+40
+50
+Enter element to search:
+25
+Element not found
+
 //Result:
 Thus, the Java program to search for an element in an array using the Binary Search technique was executed successfully.
